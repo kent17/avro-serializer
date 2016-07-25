@@ -1,0 +1,870 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+49 items
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHandler$.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHandler.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyHandler$.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyHandler.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyNestedHandler$.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyNestedHandler.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionNestedHandler$.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionNestedHandler.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$1.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$10.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$11.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$12.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$13.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$14.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$15.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$16.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$17.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$18.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$19.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$2.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$20.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$21.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$22.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$23.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$24.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$3.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$4.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$5.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$6.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$7.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$8.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$9.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$printToSpreadsheet$1.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$.class
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/Auction$.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/Auction.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavy$.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavy.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyNested$.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyNested.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionNested$.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionNested.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/Publisher$.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/Publisher.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/PublisherExtraInfo$.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/PublisherExtraInfo.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/PublisherHeavy$.class
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/PublisherHeavy.class
+binary dependencies:
+31 items
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/.ivy2/cache/com.esotericsoftware/kryo-shaded/bundles/kryo-shaded-3.0.3.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.4.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/.ivy2/cache/org.apache.avro/avro-mapred/jars/avro-mapred-1.7.7-hadoop2.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-core/jars/hadoop-mapreduce-client-core-2.2.0.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.4.1.jar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> /Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> /Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> /Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> /Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> /Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> /Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> /Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> /Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+15 items
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> /Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+49 items
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com.avroserializer.AuctionHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com.avroserializer.AuctionHandler$
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com.avroserializer.AuctionHeavyHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com.avroserializer.AuctionHeavyHandler$
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com.avroserializer.AuctionHeavyNestedHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com.avroserializer.AuctionHeavyNestedHandler$
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com.avroserializer.AuctionNestedHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com.avroserializer.AuctionNestedHandler$
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$1
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$10
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$11
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$12
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$13
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$14
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$15
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$16
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$17
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$18
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$19
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$2
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$20
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$21
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$22
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$23
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$24
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$3
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$4
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$5
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$6
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$7
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$8
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$9
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com.avroserializer.SparkAvroExample$$anonfun$printToSpreadsheet$1
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> com.avroserializer.Auction
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> com.avroserializer.Auction$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> com.avroserializer.AuctionHeavy
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> com.avroserializer.AuctionHeavy$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> com.avroserializer.AuctionHeavyNested
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> com.avroserializer.AuctionHeavyNested$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> com.avroserializer.AuctionNested
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> com.avroserializer.AuctionNested$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> com.avroserializer.Publisher
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> com.avroserializer.Publisher$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> com.avroserializer.PublisherExtraInfo
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> com.avroserializer.PublisherExtraInfo$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> com.avroserializer.PublisherHeavy
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> com.avroserializer.PublisherHeavy$
+used names:
+552 items
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> *
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> +
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> ++
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> -
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> ::
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> <init>
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> ==
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> Auction
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> AuctionHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> AuctionHeavy
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> AuctionHeavyHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> AuctionHeavyNested
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> AuctionHeavyNestedHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> AuctionNested
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> AuctionNestedHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> Char
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> Int
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> List
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> Long
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> Nil
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> Predef
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> Publisher
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> PublisherExtraInfo
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> PublisherHeavy
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> Random
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> String
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> addAuctionHeavyNestedSet
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> addAuctionHeavySet
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> addAuctionNestedSet
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> addAuctionSet
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> apply
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> canBuildFrom
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> com
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> immutable
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> l
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> mkString
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> n
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> nextFloat
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> nextInt
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> nextPrintableChar
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> package
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> r
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> randomAuction
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> randomAuctionHeavy
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> randomAuctionHeavyNested
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> randomString
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> randomStringRecursive
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> util
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> !=
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> *
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> +
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> -
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> /
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> :+
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> <init>
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> ==
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Array
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Auction
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> AuctionHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> AuctionHeavy
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> AuctionHeavyHandler
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> AvroJob
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> AvroKey
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> AvroKeyInputFormat
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> AvroKeyOutputFormat
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> BufferedOutputStream
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> ClassTag
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> CompressionCodec
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> DefaultCodec
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Double
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> DoubleIsFractional
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> File
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> FileOutputFormat
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> FileOutputStream
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> FileUtils
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Float
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> FloatIsFractional
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> GzipCodec
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> IOException
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Input
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Int
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Job
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Kryo
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> List
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Math
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Nil
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> NullWritable
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Numeric
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Ordering
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Output
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Predef
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> RDD
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> SCHEMA$
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Serializer
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> SparkAvroExample
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> SparkConf
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> SparkContext
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> String
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> System
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Tuple2
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Tuple5
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Unit
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> Void
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> _1
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> _2
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> _3
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> _4
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> _5
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> alpha
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> any2stringadd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> apache
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> apply
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> auctionId
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> auctions
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> auctionsCol
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> auctionsData
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> auctionsDataCol
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> avro
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> avrohugger
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> canBuildFrom
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> com
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> commons
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> compress
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> computeStd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> count
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> createAuctionHeavySet
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> createAuctionSet
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> currentTimeMillis
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> datum
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> deleteDirectory
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> devs
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> dirSize
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> dirSizeAvg
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> dirSizeQuantile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> dirSizeResults
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> dirSizeStd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> dirSizeSum
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> directory
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> elt
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> esotericsoftware
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> fakeRdd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> file
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> fill
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> filter
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> filteredAuctions
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> filteredAuctionsCol
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> filteredFile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> flatMap
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> floatArrayOps
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> foldLeft
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> format
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> get
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> getAbsolutePath
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> getConfiguration
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> getDirSize
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> hadoop
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> immutable
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> inputFile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> io
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> isFile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> java
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> job
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> kryo
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> lang
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> length
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> lengths
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> lib
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> listFiles
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> listFloats
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> makeRDD
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> map
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> mapred
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> mapreduce
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> materializeClassTag
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> math
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> mean
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> na
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> nbAuctions
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> nbOutliers
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> nbPartitions
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> nbTirages
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> ne
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> newAPIHadoopFile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> ones
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> org
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> output
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> outputDir
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> package
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> println
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> publisherCEODogName
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> quantileIndex
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> rdd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> rddToPairRDDFunctions
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> rddWithAuctions
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> rddWithAuctionsAvrozied
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readByColumnTime
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingAndFilteringTime
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingAvg
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredAvg
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredColumnAvg
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredColumnQuantile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredColumnResults
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredColumnStd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredColumnSum
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredQuantile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredResults
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredStd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingFilteredSum
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingQuantile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingResults
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingStd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingSum
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> readingTime
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> refArrayOps
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> results
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> revenue
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> round
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> s
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> saveAsNewAPIHadoopFile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> sc
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> scala
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> set
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> setAppName
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> setInputKeySchema
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> setOutputKeySchema
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> size
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> someAuctions
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> sorted
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> spark
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> sparkConf
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> splitAt
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> sqrt
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> startRead
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> startReadByColumn
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> startReadPredicate
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> startWrite
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> sum
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> toFloat
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> toInt
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> toLong
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> toString
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> tuple
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> usingAvro
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> value
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> vector
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> writingAvg
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> writingQuantile
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> writingResults
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> writingStd
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> writingSum
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> writingTime
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> x
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> x$24
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> x$25
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> x$26
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> x$27
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> <init>
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Any
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Auction
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> AvroRuntimeException
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Float
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Int
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> None
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Parser
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Product
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> SCHEMA$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> ScalaRunTime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Schema
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Serializable
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> SpecificRecordBase
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> Unit
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> apache
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> asInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> auctionId
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> auctionId_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> avro
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> com
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> field
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> org
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> parse
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> publisherId
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> publisherId_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> revenue
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> revenue_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> runtime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> specific
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> toString
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> typedProductIterator
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> value
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> <init>
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Any
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> AuctionHeavy
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> AvroRuntimeException
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Float
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Int
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> None
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Parser
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Predef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Product
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> SCHEMA$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> ScalaRunTime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Schema
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Serializable
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> SpecificRecordBase
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> String
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> Unit
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> apache
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> asInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> auctionId
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> auctionId_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> avro
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> com
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> field
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> isInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> org
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> parse
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherCEODogName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherCEODogName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherCEODogVetName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherCEODogVetName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherCEODogVetWifeName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherCEODogVetWifeName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherCEOName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherCEOName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherId
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherId_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> publisherName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> revenue
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> revenue_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> runtime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> specific
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> toString
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> typedProductIterator
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> value
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> <init>
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> Any
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> AuctionHeavyNested
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> AuctionNested
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> AvroRuntimeException
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> Int
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> None
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> Parser
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> Predef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> Product
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> PublisherHeavy
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> SCHEMA$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> ScalaRunTime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> Schema
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> Serializable
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> SpecificRecordBase
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> String
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> Unit
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> apache
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> asInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> auctionNested
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> auctionNested_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> avro
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> com
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> extraString1
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> extraString1_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> extraString2
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> extraString2_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> field
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> isInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> org
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> parse
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> publisherName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> publisherName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> runtime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> specific
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> toString
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> typedProductIterator
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> value
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> <init>
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Any
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> AuctionNested
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> AvroRuntimeException
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Float
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Int
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> None
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Parser
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Product
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Publisher
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> SCHEMA$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> ScalaRunTime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Schema
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Serializable
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> SpecificRecordBase
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> Unit
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> apache
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> asInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> auctionId
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> auctionId_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> avro
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> com
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> field
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> org
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> parse
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> publisherId
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> publisherId_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> publisherName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> publisherName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> revenue
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> revenue_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> runtime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> specific
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> toString
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> typedProductIterator
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> value
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> <init>
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Any
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> AvroRuntimeException
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Int
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> None
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Parser
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Predef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Product
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Publisher
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> SCHEMA$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> ScalaRunTime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Schema
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Serializable
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> SpecificRecordBase
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> String
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> Unit
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> apache
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> asInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> avro
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> com
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> field
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> isInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> org
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> parse
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> publisherId
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> publisherId_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> publisherName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> publisherName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> runtime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> specific
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> toString
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> typedProductIterator
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> value
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> <init>
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> Any
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> AvroRuntimeException
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> Int
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> None
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> Parser
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> Predef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> Product
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> PublisherExtraInfo
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> SCHEMA$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> ScalaRunTime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> Schema
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> Serializable
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> SpecificRecordBase
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> String
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> Unit
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> apache
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> asInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> avro
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> com
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> field
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> isInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> org
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> parse
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> publisherCEODogName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> publisherCEODogName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> publisherCEODogVetName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> publisherCEODogVetName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> publisherCEODogVetWifeName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> publisherCEODogVetWifeName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> publisherCEOName
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> publisherCEOName_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> runtime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> specific
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> toString
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> typedProductIterator
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> value
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> <init>
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Any
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> AnyRef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> AvroRuntimeException
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Int
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> None
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Parser
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Predef
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Product
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Publisher
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> PublisherExtraInfo
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> PublisherHeavy
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> SCHEMA$
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> ScalaRunTime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Schema
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Serializable
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> SpecificRecordBase
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> String
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> Unit
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> apache
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> asInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> avro
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> avroserializer
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> com
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> extraInfo
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> extraInfo_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> extraString1
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> extraString1_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> extraString2
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> extraString2_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> field
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> isInstanceOf
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> org
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> parse
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> publisher
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> publisher_=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> runtime
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> scala
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> specific
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> toString
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> typedProductIterator
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> value
+product stamps:
+49 items
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/Auction$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/Auction.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHandler$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHandler.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavy$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavy.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyHandler$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyHandler.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyNested$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyNested.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyNestedHandler$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionHeavyNestedHandler.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionNested$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionNested.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionNestedHandler$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/AuctionNestedHandler.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/Publisher$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/Publisher.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/PublisherExtraInfo$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/PublisherExtraInfo.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/PublisherHeavy$.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/PublisherHeavy.class -> lastModified(1444383886000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$1.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$10.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$11.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$12.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$13.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$14.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$15.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$16.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$17.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$18.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$19.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$2.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$20.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$21.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$22.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$23.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$24.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$3.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$4.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$5.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$6.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$7.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$8.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$9.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$$anonfun$printToSpreadsheet$1.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample$.class -> lastModified(1444384083000)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/com/avroserializer/SparkAvroExample.class -> lastModified(1444384083000)
+source stamps:
+9 items
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> hash(f64a9dc82b66da999977b7e2aa09df3139206348)
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> hash(59ebb6b08b43f213e85c0e40faeedf115778a2a2)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> hash(7fabc361c72f8cee220b9f312ec1b653030e62ca)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> hash(9b22e0e6a4e49c174e8ecfcb5420022f5f9904dc)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> hash(70dffe13632472f5c07b0381e2ca428db2f7d86d)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> hash(9dc486d4cd61c1809c12adec685812c90c489715)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> hash(9f2b2d822810fae250ffcebb9e94f611e5259040)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> hash(620f83cfbfd396336f2197772df2a5a4c247c817)
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> hash(cd9f47a1ade4c480a331c1eeb3dcc17147554ad9)
+binary stamps:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1433812782000)
+/Users/quentin/.ivy2/cache/com.esotericsoftware/kryo-shaded/bundles/kryo-shaded-3.0.3.jar -> lastModified(1437947229000)
+/Users/quentin/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.4.jar -> lastModified(1339539723000)
+/Users/quentin/.ivy2/cache/org.apache.avro/avro-mapred/jars/avro-mapred-1.7.7-hadoop2.jar -> lastModified(1405713735000)
+/Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar -> lastModified(1405714135000)
+/Users/quentin/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar -> lastModified(1381127427000)
+/Users/quentin/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-core/jars/hadoop-mapreduce-client-core-2.2.0.jar -> lastModified(1381127785000)
+/Users/quentin/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.4.1.jar -> lastModified(1436399609000)
+/Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar -> lastModified(1425002069000)
+class names:
+9 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/quentin/.ivy2/cache/com.esotericsoftware/kryo-shaded/bundles/kryo-shaded-3.0.3.jar -> com.esotericsoftware.kryo.io.Output
+/Users/quentin/.ivy2/cache/commons-io/commons-io/jars/commons-io-2.4.jar -> org.apache.commons.io.FileUtils
+/Users/quentin/.ivy2/cache/org.apache.avro/avro-mapred/jars/avro-mapred-1.7.7-hadoop2.jar -> org.apache.avro.mapred.AvroKey
+/Users/quentin/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar -> org.apache.avro.specific.SpecificRecordBase
+/Users/quentin/.ivy2/cache/org.apache.hadoop/hadoop-common/jars/hadoop-common-2.2.0.jar -> org.apache.hadoop.io.compress.GzipCodec
+/Users/quentin/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-core/jars/hadoop-mapreduce-client-core-2.2.0.jar -> org.apache.hadoop.mapreduce.lib.output.FileOutputFormat
+/Users/quentin/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.4.1.jar -> org.apache.spark.rdd.RDD
+/Users/quentin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.10.5.jar -> scala.MatchError
+internal apis:
+9 items
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCgo7XnAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cD9JrRV0AAZub3RpZnlzcQB+AAyofW5VdAAYYWRkQXVjdGlvbkhlYXZ5TmVzdGVkU2V0c3EAfgAMiYX42nQAFWNyZWF0ZUF1Y3Rpb25IZWF2eVNldHNxAH4ADG/rr9B0AAR3YWl0c3EAfgAMJidkmHQAEmFkZEF1Y3Rpb25IZWF2eVNldHNxAH4ADCECC/F0AA0kYXNJbnN0YW5jZU9mc3EAfgAMuGjWd3QAGHJhbmRvbUF1Y3Rpb25IZWF2eU5lc3RlZHNxAH4ADHMleB50ABNBdWN0aW9uSGVhdnlIYW5kbGVyc3EAfgAMlLknRnQABmVxdWFsc3NxAH4ADLYfDF90AA1hZGRBdWN0aW9uU2V0c3EAfgAMhfeEAHQADGFzSW5zdGFuY2VPZnNxAH4ADBnIieh0ABRBdWN0aW9uTmVzdGVkSGFuZGxlcnNxAH4ADOtcChV0ABBjcmVhdGVBdWN0aW9uU2V0c3EAfgAMtIxwcXQADHN5bmNocm9uaXplZHNxAH4ADMzyiyR0AAxyYW5kb21TdHJpbmdzcQB+AAy1YTlYdAAWY3JlYXRlQXVjdGlvbk5lc3RlZFNldHNxAH4ADBuCxqN0AA0kaXNJbnN0YW5jZU9mc3EAfgAMLZIYQnQAFXJhbmRvbVN0cmluZ1JlY3Vyc2l2ZXNxAH4ADIsUqNJ0ABlBdWN0aW9uSGVhdnlOZXN0ZWRIYW5kbGVyc3EAfgAMpHnYJXQADkF1Y3Rpb25IYW5kbGVyc3EAfgAMbga0d3QACW5vdGlmeUFsbHNxAH4ADPoWH9t0AAxpc0luc3RhbmNlT2ZzcQB+AAw+tWr0dAATYWRkQXVjdGlvbk5lc3RlZFNldHNxAH4ADDN6+nN0ABtjcmVhdGVBdWN0aW9uSGVhdnlOZXN0ZWRTZXRzcQB+AAxrTfxGdAACPT1zcQB+AAz5oAQDdAAFY2xvbmVzcQB+AAzF+lV7dAAScmFuZG9tQXVjdGlvbkhlYXZ5c3EAfgAMNUI/nnQACHRvU3RyaW5nc3EAfgAMizoKt3QAAiE9c3EAfgAMteOYMnQACGdldENsYXNzc3EAfgAM3Cg3dnQADXJhbmRvbUF1Y3Rpb25zcQB+AAybhmxEdAACbmVzcQB+AAwW03ltdAACZXFzcQB+AAwKAdkidAACIyNzcQB+AAyQjWymdAAIZmluYWxpemVzcQB+AAyKan0kdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAAEc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAhY29tLmF2cm9zZXJpYWxpemVyLkF1Y3Rpb25IYW5kbGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AeHhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AdwBwc3EAfgB8c3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AF9MAAlpbmhlcml0ZWRxAH4AX0wAB3BhcmVudHNxAH4AX3hxAH4AgHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXEAfgBaAAAAAHNxAH4AdwBwc3EAfgB8dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgB/dAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgB/c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCcdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCdc3EAfgCQdAADQW55c3EAfgCUc3EAfgCXdXEAfgCaAAAAAnNxAH4AnHQABXNjYWxhcQB+AKNzcQB+AFxxAH4AaXVxAH4AagAAAABzcQB+AGwAdAAmY29tLmF2cm9zZXJpYWxpemVyLkF1Y3Rpb25IZWF2eUhhbmRsZXJ1cQB+AG8AAAAAcQB+AHN1cQB+AHUAAAAAc3EAfgB3AHBzcQB+AHxxAH4AgXNxAH4AdwBwc3EAfgB8c3EAfgCEc3EAfgB3AHBzcQB+AHx1cQB+AFoAAAAAc3EAfgB3AHBzcQB+AHx1cQB+AFoAAAAAc3EAfgB3AHBzcQB+AHx1cQB+AI4AAAACc3EAfgCQcQB+AJNzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AJ9zcQB+AJxxAH4AoXEAfgCjc3EAfgCQcQB+AKVzcQB+AJRzcQB+AJd1cQB+AJoAAAACc3EAfgCccQB+AKpxAH4Ao3NxAH4AXHEAfgBpdXEAfgBqAAAAAHNxAH4AbAB0ACdjb20uYXZyb3NlcmlhbGl6ZXIuQXVjdGlvbk5lc3RlZEhhbmRsZXJ1cQB+AG8AAAAAcQB+AHN1cQB+AHUAAAAAc3EAfgB3AHBzcQB+AHxxAH4AgXNxAH4AdwBwc3EAfgB8c3EAfgCEc3EAfgB3AHBzcQB+AHx1cQB+AFoAAAAAc3EAfgB3AHBzcQB+AHx1cQB+AFoAAAAAc3EAfgB3AHBzcQB+AHx1cQB+AI4AAAACc3EAfgCQcQB+AJNzcQB+AJRzcQB+AJd1cQB+AJoAAAADc3EAfgCccQB+AJ9zcQB+AJxxAH4AoXEAfgCjc3EAfgCQcQB+AKVzcQB+AJRzcQB+AJd1cQB+AJoAAAACc3EAfgCccQB+AKpxAH4Ao3NxAH4AXHEAfgBpdXEAfgBqAAAAAHNxAH4AbAB0ACxjb20uYXZyb3NlcmlhbGl6ZXIuQXVjdGlvbkhlYXZ5TmVzdGVkSGFuZGxlcnVxAH4AbwAAAABxAH4Ac3VxAH4AdQAAAABzcQB+AHcAcHNxAH4AfHEAfgCBc3EAfgB3AHBzcQB+AHxzcQB+AIRzcQB+AHcAcHNxAH4AfHVxAH4AWgAAAABzcQB+AHcAcHNxAH4AfHVxAH4AWgAAAABzcQB+AHcAcHNxAH4AfHVxAH4AjgAAAAJzcQB+AJBxAH4Ak3NxAH4AlHNxAH4Al3VxAH4AmgAAAANzcQB+AJxxAH4An3NxAH4AnHEAfgChcQB+AKNzcQB+AJBxAH4ApXNxAH4AlHNxAH4Al3VxAH4AmgAAAAJzcQB+AJxxAH4AqnEAfgCjdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAASY29tLmF2cm9zZXJpYWxpemVyc3EAfgEKdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQS/z6fHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMvcXVlbnRpbi9EZXYvYXZyby1zZXJpYWxpemVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABT2Sp3IK2bamZl3t+KqCd8xOSBjSA==
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHA58wmZAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cLmLTQp0AAZub3RpZnlzcQB+AAyhxjmBdAAEd2FpdHNxAH4ADHLmYtl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMrjMe+nQABmVxdWFsc3NxAH4ADGnYVwd0AAxhc0luc3RhbmNlT2ZzcQB+AAwMlFiydAAMc3luY2hyb25pemVkc3EAfgAMSQZ8T3QADSRpc0luc3RhbmNlT2ZzcQB+AAyR0DiidAAJdXNpbmdBdnJvc3EAfgAMfd3s7XQABG1haW5zcQB+AAynPoiUdAAJbm90aWZ5QWxsc3EAfgAMUPtKWHQADGlzSW5zdGFuY2VPZnNxAH4ADFpwvvd0AApnZXREaXJTaXplc3EAfgAMUvsidXQAAj09c3EAfgAMHBo7unQABWNsb25lc3EAfgAMoTzK9HQADmF1Y3Rpb25QcmludGVyc3EAfgAMqikPIXQACmNvbXB1dGVTdGRzcQB+AAxNvg4JdAAIdG9TdHJpbmdzcQB+AAz0hfG4dAACIT1zcQB+AAyEicdmdAAIZ2V0Q2xhc3NzcQB+AAxLPnwedAACbmVzcQB+AAzpYWaLdAAScHJpbnRUb1NwcmVhZHNoZWV0c3EAfgAMXXiJynQAAmVxc3EAfgAM5rKu/3QAAiMjc3EAfgAMCOXtY3QACGZpbmFsaXplc3EAfgAMSt8AnHQACGhhc2hDb2Rlc3EAfgAMVuNurnQAEFNwYXJrQXZyb0V4YW1wbGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAjY29tLmF2cm9zZXJpYWxpemVyLlNwYXJrQXZyb0V4YW1wbGV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGMBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AanNxAH4AYwF1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAABzcQB+AFgAcQB+AB91cQB+AFsAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaXQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIV1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgByeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBedAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB5WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBpc3EAfgB4dAAFQXJyYXlxAH4AfnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB4dAAGU3RyaW5nc3EAfgB8c3EAfgB/dXEAfgCCAAAAA3NxAH4AhHQABGphdmFzcQB+AIR0AARsYW5ncQB+AIlwc3EAfgBjAXVxAH4ARgAAAABwc3EAfgBjAXVxAH4AnQAAAAJzcQB+AHh0AAZPYmplY3RxAH4AoXNxAH4AeHQAA0FueXEAfgB+cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABJjb20uYXZyb3NlcmlhbGl6ZXJzcQB+ALJ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVBL//eedXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9Vc2Vycy9xdWVudGluL0Rldi9hdnJvLXNlcmlhbGl6ZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFnrtrCLQ/IT6FwOQPru3xFXeKKi
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCMaeZUAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cL7VoRx0AAtwdWJsaXNoZXJJZHNxAH4ADKgN5QN0AAZub3RpZnlzcQB+AAxWMRrAdAAHdW5hcHBseXNxAH4ADCQkxxN0AAR3YWl0c3EAfgAMe7eYyXQADmNvcHkkZGVmYXVsdCQyc3EAfgAM+fbIGXQADSRhc0luc3RhbmNlT2ZzcQB+AAxJafBVdAAMcHJvZHVjdEFyaXR5c3EAfgAMaM78VnQABmVxdWFsc3NxAH4ADJU3CC10AAxhc0luc3RhbmNlT2ZzcQB+AAxAM5I/dAAJZ2V0U2NoZW1hc3EAfgAMwpNi2nQADHN5bmNocm9uaXplZHNxAH4ADKR6vEh0AA0kaXNJbnN0YW5jZU9mc3EAfgAMYJt5cHQACGNhbkVxdWFsc3EAfgAMSIP3zHQADXByb2R1Y3RQcmVmaXhzcQB+AAynD5dKdAAJYXVjdGlvbklkc3EAfgAMaACcb3QACW5vdGlmeUFsbHNxAH4ADMIVuw10AAtyZWFkUmVzb2x2ZXNxAH4ADLUOEs90AAdBdWN0aW9uc3EAfgAMhAL/SXQACWNvbXBhcmVUb3NxAH4ADJlIenV0AAxpc0luc3RhbmNlT2ZzcQB+AAzPqgbDdAAGPGluaXQ+c3EAfgAMd5iAW3QABWFwcGx5c3EAfgAMP0UeIXQAAj09c3EAfgAMqDL3tXQABWNsb25lc3EAfgAMtNlfyHQAB1NDSEVNQSRzcQB+AAxMok95dAAHcmV2ZW51ZXNxAH4ADBfo1ip0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADJRZO7V0AARjb3B5c3EAfgAMNzNscXQAA3B1dHNxAH4ADB1gnAt0AAh0b1N0cmluZ3NxAH4ADHeKciB0AAIhPXNxAH4ADJGzx390AANnZXRzcQB+AAwNTy7NdAAIZ2V0Q2xhc3NzcQB+AAzRyn91dAAOY29weSRkZWZhdWx0JDFzcQB+AAzA8dSbdAACbmVzcQB+AAzGFMkZdAACZXFzcQB+AAxpFPhFdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMOCu923QAAiMjc3EAfgAMiK3/r3QACGZpbmFsaXplc3EAfgAMgvJ8mHQADnByb2R1Y3RFbGVtZW50c3EAfgAMDzS2mnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAGmNvbS5hdnJvc2VyaWFsaXplci5BdWN0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCCeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCBAHBzcQB+AIZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCKc3EAfgCBAHBzcQB+AIZ1cQB+AGQAAAAAc3EAfgCBAHBzcQB+AIZ1cQB+AGQAAAAAc3EAfgCBAHBzcQB+AIZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIl0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKdzcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZ0AARqYXZhc3EAfgCmdAACaW9xAH4Aq3NxAH4AmnQAB1Byb2R1Y3RxAH4AoHNxAH4AmnQABkVxdWFsc3EAfgCgc3EAfgCadAASU3BlY2lmaWNSZWNvcmRCYXNlc3EAfgCec3EAfgChdXEAfgCkAAAABXNxAH4ApnQAA29yZ3NxAH4ApnQABmFwYWNoZXNxAH4ApnQABGF2cm9zcQB+AKZ0AAhzcGVjaWZpY3EAfgCrc3EAfgCadAANR2VuZXJpY1JlY29yZHNxAH4AnnNxAH4AoXVxAH4ApAAAAAVzcQB+AKZ0AANvcmdzcQB+AKZ0AAZhcGFjaGVzcQB+AKZ0AARhdnJvc3EAfgCmdAAHZ2VuZXJpY3EAfgCrc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCbWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCJc3EAfgCadAAKQ29tcGFyYWJsZXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AsXNxAH4ApnQABGxhbmdxAH4Aq3VxAH4AmAAAAAFzcQB+AJp0AA5TcGVjaWZpY1JlY29yZHEAfgC6cQB+AN5zcQB+AJp0AA1JbmRleGVkUmVjb3JkcQB+AMdzcQB+AJp0ABBHZW5lcmljQ29udGFpbmVycQB+AMdzcQB+AJp0AAZPYmplY3RxAH4A13NxAH4AmnQAA0FueXEAfgCgc3EAfgBmcQB+AHN1cQB+AHQAAAAAc3EAfgB2AHQAGmNvbS5hdnJvc2VyaWFsaXplci5BdWN0aW9udXEAfgB5AAAAAH5xAH4Ae3QABk1vZHVsZXVxAH4AfwAAAABzcQB+AIEAcHNxAH4AhnEAfgCLc3EAfgCBAHBzcQB+AIZzcQB+AI5zcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AmAAAAARzcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AqXEAfgCrc3EAfgCacQB+AJ1zcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALFzcQB+AKZ0AAJpb3EAfgCrc3EAfgCacQB+AOVzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALFzcQB+AKZxAH4A3HEAfgCrc3EAfgCacQB+AOdxAH4A/3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEmNvbS5hdnJvc2VyaWFsaXplcnNxAH4BE3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEv8+nx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L1VzZXJzL3F1ZW50aW4vRGV2L2F2cm8tc2VyaWFsaXplci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUf6vDYccvjO4iC58xLsG2UwMOYso=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAIGFckAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAM3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJOIHZB0AAtwdWJsaXNoZXJJZHNxAH4ADCZqOeR0AAZub3RpZnlzcQB+AAysoPxfdAAHdW5hcHBseXNxAH4ADMYLqL50AAR3YWl0c3EAfgAMZmDREXQADmNvcHkkZGVmYXVsdCQyc3EAfgAMyDP4rnQADSRhc0luc3RhbmNlT2ZzcQB+AAxW6NkQdAAOY29weSRkZWZhdWx0JDVzcQB+AAyonXCcdAANcHVibGlzaGVyTmFtZXNxAH4ADL3EvkJ0AAxwcm9kdWN0QXJpdHlzcQB+AAxnXIhZdAAGZXF1YWxzc3EAfgAMGfAmInQADEF1Y3Rpb25IZWF2eXNxAH4ADHMqj7N0ABpwdWJsaXNoZXJDRU9Eb2dWZXRXaWZlTmFtZXNxAH4ADNKlcwJ0AAxhc0luc3RhbmNlT2ZzcQB+AAyjUDscdAAJZ2V0U2NoZW1hc3EAfgAMZjPpTnQADHN5bmNocm9uaXplZHNxAH4ADOflvsp0AA0kaXNJbnN0YW5jZU9mc3EAfgAM64DGqnQADmNvcHkkZGVmYXVsdCQ4c3EAfgAMPwOcTnQACGNhbkVxdWFsc3EAfgAMqmHodHQAFnB1Ymxpc2hlckNFT0RvZ1ZldE5hbWVzcQB+AAzWAg6+dAAOY29weSRkZWZhdWx0JDRzcQB+AAwHVHoIdAANcHJvZHVjdFByZWZpeHNxAH4ADB75JSZ0AAlhdWN0aW9uSWRzcQB+AAynASEndAAJbm90aWZ5QWxsc3EAfgAMgu5YBXQAC3JlYWRSZXNvbHZlc3EAfgAMhZr3hXQACWNvbXBhcmVUb3NxAH4ADBI6ziR0AAxpc0luc3RhbmNlT2ZzcQB+AAyHN45vdAAGPGluaXQ+c3EAfgAM3O8L03QABWFwcGx5c3EAfgAMBOoY53QAAj09c3EAfgAMI+tfuHQAE3B1Ymxpc2hlckNFT0RvZ05hbWVzcQB+AAyUWQMadAAFY2xvbmVzcQB+AAwjyxxWdAAHU0NIRU1BJHNxAH4ADKB/W/50AAdyZXZlbnVlc3EAfgAMXmad23QADmNvcHkkZGVmYXVsdCQ3c3EAfgAM9izsaXQADmNvcHkkZGVmYXVsdCQzc3EAfgAMyaiRU3QABGNvcHlzcQB+AAznqfvIdAADcHV0c3EAfgAMkuP7BnQACHRvU3RyaW5nc3EAfgAMTItQtXQAAiE9c3EAfgAMx5RMzXQAA2dldHNxAH4ADDXtdmF0AAhnZXRDbGFzc3NxAH4ADOAXlVx0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADE/geN90ABBwdWJsaXNoZXJDRU9OYW1lc3EAfgAMSpZdPHQADmNvcHkkZGVmYXVsdCQ2c3EAfgAMJIYVRHQAAm5lc3EAfgAM4fq013QAAmVxc3EAfgAMyKTNbXQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADI72Yu50AAIjI3NxAH4ADD9iccp0AAhmaW5hbGl6ZXNxAH4ADJ3EMmx0AA5wcm9kdWN0RWxlbWVudHNxAH4ADAHlqvp0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AH14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AB9jb20uYXZyb3NlcmlhbGl6ZXIuQXVjdGlvbkhlYXZ5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCWeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCVAHBzcQB+AJpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AfUwACWluaGVyaXRlZHEAfgB9TAAHcGFyZW50c3EAfgB9eHEAfgCec3EAfgCVAHBzcQB+AJp1cQB+AHgAAAAAc3EAfgCVAHBzcQB+AJp1cQB+AHgAAAAAc3EAfgCVAHBzcQB+AJp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ10AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJ1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALtzcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALp0AARqYXZhc3EAfgC6dAACaW9xAH4Av3NxAH4ArnQAB1Byb2R1Y3RxAH4AtHNxAH4ArnQABkVxdWFsc3EAfgC0c3EAfgCudAASU3BlY2lmaWNSZWNvcmRCYXNlc3EAfgCyc3EAfgC1dXEAfgC4AAAABXNxAH4AunQAA29yZ3NxAH4AunQABmFwYWNoZXNxAH4AunQABGF2cm9zcQB+ALp0AAhzcGVjaWZpY3EAfgC/c3EAfgCudAANR2VuZXJpY1JlY29yZHNxAH4AsnNxAH4AtXVxAH4AuAAAAAVzcQB+ALp0AANvcmdzcQB+ALp0AAZhcGFjaGVzcQB+ALp0AARhdnJvc3EAfgC6dAAHZ2VuZXJpY3EAfgC/c3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCvWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCdc3EAfgCudAAKQ29tcGFyYWJsZXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunQABGxhbmdxAH4Av3VxAH4ArAAAAAFzcQB+AK50AA5TcGVjaWZpY1JlY29yZHEAfgDOcQB+APJzcQB+AK50AA1JbmRleGVkUmVjb3JkcQB+ANtzcQB+AK50ABBHZW5lcmljQ29udGFpbmVycQB+ANtzcQB+AK50AAZPYmplY3RxAH4A63NxAH4ArnQAA0FueXEAfgC0c3EAfgB6cQB+AId1cQB+AIgAAAAAc3EAfgCKAHQAH2NvbS5hdnJvc2VyaWFsaXplci5BdWN0aW9uSGVhdnl1cQB+AI0AAAAAfnEAfgCPdAAGTW9kdWxldXEAfgCTAAAAAHNxAH4AlQBwc3EAfgCacQB+AJ9zcQB+AJUAcHNxAH4AmnNxAH4AonNxAH4AlQBwc3EAfgCadXEAfgB4AAAAAHNxAH4AlQBwc3EAfgCadXEAfgB4AAAAAHNxAH4AlQBwc3EAfgCadXEAfgCsAAAABHNxAH4ArnEAfgCxc3EAfgCyc3EAfgC1dXEAfgC4AAAAAnNxAH4AunEAfgC9cQB+AL9zcQB+AK5xAH4AsXNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunQAAmlvcQB+AL9zcQB+AK5xAH4A+XNxAH4AsnNxAH4AtXVxAH4AuAAAAANzcQB+ALpxAH4AxXNxAH4AunEAfgDwcQB+AL9zcQB+AK5xAH4A+3EAfgETdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAASY29tLmF2cm9zZXJpYWxpemVyc3EAfgEndAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQS/z6fHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMvcXVlbnRpbi9EZXYvYXZyby1zZXJpYWxpemVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSbIuDmpOScF06Oz8tUIAIvX5kE3A==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC6H7V3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cNHjVB90AAZub3RpZnlzcQB+AAztY/RQdAAHdW5hcHBseXNxAH4ADGg4fZp0AAR3YWl0c3EAfgAMQkxfeXQADmNvcHkkZGVmYXVsdCQyc3EAfgAM7GW4bnQADSRhc0luc3RhbmNlT2ZzcQB+AAzt3k9XdAANcHVibGlzaGVyTmFtZXNxAH4ADPmLiqp0AAxwcm9kdWN0QXJpdHlzcQB+AAyD12HJdAAGZXF1YWxzc3EAfgAMpq49sHQADGFzSW5zdGFuY2VPZnNxAH4ADN0Zfbt0AAxleHRyYVN0cmluZzJzcQB+AAyiDGYbdAAJZ2V0U2NoZW1hc3EAfgAMjHRiVHQADHN5bmNocm9uaXplZHNxAH4ADPknJLZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMKtp8OnQACGNhbkVxdWFsc3EAfgAMrNgR5XQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM1fjFOHQADXByb2R1Y3RQcmVmaXhzcQB+AAxV3P5PdAAJbm90aWZ5QWxsc3EAfgAMNABgMHQAC3JlYWRSZXNvbHZlc3EAfgAM/fnbiXQACWNvbXBhcmVUb3NxAH4ADCCgXct0AAxpc0luc3RhbmNlT2ZzcQB+AAz/MkmKdAAGPGluaXQ+c3EAfgAMGLVtr3QABWFwcGx5c3EAfgAM3i0S3XQAAj09c3EAfgAMV7/y+HQABWNsb25lc3EAfgAMAivZ0HQAB1NDSEVNQSRzcQB+AAzaE37VdAAOY29weSRkZWZhdWx0JDNzcQB+AAyUxO9WdAAEY29weXNxAH4ADHvjVVZ0AANwdXRzcQB+AAxr9f3WdAAIdG9TdHJpbmdzcQB+AAy8hkCzdAACIT1zcQB+AAzWSKg3dAADZ2V0c3EAfgAMP/Q+nnQACGdldENsYXNzc3EAfgAMrTTar3QADmNvcHkkZGVmYXVsdCQxc3EAfgAMmH1E7XQAAm5lc3EAfgAMmEAvOXQAEkF1Y3Rpb25IZWF2eU5lc3RlZHNxAH4ADCy9YSZ0AAJlcXNxAH4ADEkGtH50AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAxy+bf6dAAMZXh0cmFTdHJpbmcxc3EAfgAMcAw92XQAAiMjc3EAfgAMMOsdQ3QACGZpbmFsaXplc3EAfgAMTnH0OHQADnByb2R1Y3RFbGVtZW50c3EAfgAMk4Jrm3QACGhhc2hDb2Rlc3EAfgAM8zffYXQADWF1Y3Rpb25OZXN0ZWRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAlY29tLmF2cm9zZXJpYWxpemVyLkF1Y3Rpb25IZWF2eU5lc3RlZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ahnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AhQBwc3EAfgCKc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AG1MAAlpbmhlcml0ZWRxAH4AbUwAB3BhcmVudHNxAH4AbXhxAH4AjnNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAxzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCNdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCNc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCrc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqdAAEamF2YXNxAH4AqnQAAmlvcQB+AK9zcQB+AJ50AAdQcm9kdWN0cQB+AKRzcQB+AJ50AAZFcXVhbHNxAH4ApHNxAH4AnnQAElNwZWNpZmljUmVjb3JkQmFzZXNxAH4AonNxAH4ApXVxAH4AqAAAAAVzcQB+AKp0AANvcmdzcQB+AKp0AAZhcGFjaGVzcQB+AKp0AARhdnJvc3EAfgCqdAAIc3BlY2lmaWNxAH4Ar3NxAH4AnnQADUdlbmVyaWNSZWNvcmRzcQB+AKJzcQB+AKV1cQB+AKgAAAAFc3EAfgCqdAADb3Jnc3EAfgCqdAAGYXBhY2hlc3EAfgCqdAAEYXZyb3NxAH4AqnQAB2dlbmVyaWNxAH4Ar3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4An1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AjXNxAH4AnnQACkNvbXBhcmFibGVzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKp0AARsYW5ncQB+AK91cQB+AJwAAAABc3EAfgCedAAOU3BlY2lmaWNSZWNvcmRxAH4AvnEAfgDic3EAfgCedAANSW5kZXhlZFJlY29yZHEAfgDLc3EAfgCedAAQR2VuZXJpY0NvbnRhaW5lcnEAfgDLc3EAfgCedAAGT2JqZWN0cQB+ANtzcQB+AJ50AANBbnlxAH4ApHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0ACVjb20uYXZyb3NlcmlhbGl6ZXIuQXVjdGlvbkhlYXZ5TmVzdGVkdXEAfgB9AAAAAH5xAH4Af3QABk1vZHVsZXVxAH4AgwAAAABzcQB+AIUAcHNxAH4AinEAfgCPc3EAfgCFAHBzcQB+AIpzcQB+AJJzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AnAAAAARzcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4ArXEAfgCvc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKp0AAJpb3EAfgCvc3EAfgCecQB+AOlzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKpxAH4A4HEAfgCvc3EAfgCecQB+AOtxAH4BA3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEmNvbS5hdnJvc2VyaWFsaXplcnNxAH4BF3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEv8+nx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L1VzZXJzL3F1ZW50aW4vRGV2L2F2cm8tc2VyaWFsaXplci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUcN/+E2MkcvXAewOB4spCjbL32G0=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCk+UeeAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cFVJmPF0AAtwdWJsaXNoZXJJZHNxAH4ADB1qrGR0AAZub3RpZnlzcQB+AAwTWdJbdAAHdW5hcHBseXNxAH4ADDJbWC10AAR3YWl0c3EAfgAMGMeLF3QADmNvcHkkZGVmYXVsdCQyc3EAfgAMfsqssnQADSRhc0luc3RhbmNlT2ZzcQB+AAwsDp83dAANcHVibGlzaGVyTmFtZXNxAH4ADBO00n50AAxwcm9kdWN0QXJpdHlzcQB+AAyeY2L/dAAGZXF1YWxzc3EAfgAMStCBDnQADGFzSW5zdGFuY2VPZnNxAH4ADD6rMu50AAlnZXRTY2hlbWFzcQB+AAwgr4ChdAAMc3luY2hyb25pemVkc3EAfgAMU3ajwHQADSRpc0luc3RhbmNlT2ZzcQB+AAzJV6NNdAAIY2FuRXF1YWxzcQB+AAw72gMcdAAOY29weSRkZWZhdWx0JDRzcQB+AAxqPN/YdAANcHJvZHVjdFByZWZpeHNxAH4ADDjrueF0AAlhdWN0aW9uSWRzcQB+AAyDDKMYdAAJbm90aWZ5QWxsc3EAfgAMJOTvbnQAC3JlYWRSZXNvbHZlc3EAfgAMdkYIH3QACWNvbXBhcmVUb3NxAH4ADC1Ae0V0AAxpc0luc3RhbmNlT2ZzcQB+AAzRgHRSdAAGPGluaXQ+c3EAfgAMY0i7x3QABWFwcGx5c3EAfgAMbIcStXQAAj09c3EAfgAMBcz1inQABWNsb25lc3EAfgAMtf08dnQAB1NDSEVNQSRzcQB+AAzRU/rRdAAHcmV2ZW51ZXNxAH4ADAjo6Cp0AA5jb3B5JGRlZmF1bHQkM3NxAH4ADFv2Ggt0AARjb3B5c3EAfgAMGNWI63QAA3B1dHNxAH4ADMAuHfl0AAh0b1N0cmluZ3NxAH4ADHOq8Q10AAIhPXNxAH4ADLPEmlt0AANnZXRzcQB+AAwa/RZDdAAIZ2V0Q2xhc3NzcQB+AAwk13ArdAAOY29weSRkZWZhdWx0JDFzcQB+AAwX/ZdldAANQXVjdGlvbk5lc3RlZHNxAH4ADGFUA4B0AAJuZXNxAH4ADKxCOap0AAJlcXNxAH4ADPopj6p0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAynSg4pdAACIyNzcQB+AAxSdtEddAAIZmluYWxpemVzcQB+AAy0Njc9dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzNExdWdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAgY29tLmF2cm9zZXJpYWxpemVyLkF1Y3Rpb25OZXN0ZWR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AIZ4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIUAcHNxAH4AinNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBtTAAJaW5oZXJpdGVkcQB+AG1MAAdwYXJlbnRzcQB+AG14cQB+AI5zcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAMc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AjXQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AjXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aq3NxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnQABGphdmFzcQB+AKp0AAJpb3EAfgCvc3EAfgCedAAHUHJvZHVjdHEAfgCkc3EAfgCedAAGRXF1YWxzcQB+AKRzcQB+AJ50ABJTcGVjaWZpY1JlY29yZEJhc2VzcQB+AKJzcQB+AKV1cQB+AKgAAAAFc3EAfgCqdAADb3Jnc3EAfgCqdAAGYXBhY2hlc3EAfgCqdAAEYXZyb3NxAH4AqnQACHNwZWNpZmljcQB+AK9zcQB+AJ50AA1HZW5lcmljUmVjb3Jkc3EAfgCic3EAfgCldXEAfgCoAAAABXNxAH4AqnQAA29yZ3NxAH4AqnQABmFwYWNoZXNxAH4AqnQABGF2cm9zcQB+AKp0AAdnZW5lcmljcQB+AK9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AJ9bAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AI1zcQB+AJ50AApDb21wYXJhYmxlc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgC1c3EAfgCqdAAEbGFuZ3EAfgCvdXEAfgCcAAAAAXNxAH4AnnQADlNwZWNpZmljUmVjb3JkcQB+AL5xAH4A4nNxAH4AnnQADUluZGV4ZWRSZWNvcmRxAH4Ay3NxAH4AnnQAEEdlbmVyaWNDb250YWluZXJxAH4Ay3NxAH4AnnQABk9iamVjdHEAfgDbc3EAfgCedAADQW55cQB+AKRzcQB+AGpxAH4Ad3VxAH4AeAAAAABzcQB+AHoAdAAgY29tLmF2cm9zZXJpYWxpemVyLkF1Y3Rpb25OZXN0ZWR1cQB+AH0AAAAAfnEAfgB/dAAGTW9kdWxldXEAfgCDAAAAAHNxAH4AhQBwc3EAfgCKcQB+AI9zcQB+AIUAcHNxAH4AinNxAH4AknNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgCcAAAABHNxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAAnNxAH4AqnEAfgCtcQB+AK9zcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnQAAmlvcQB+AK9zcQB+AJ5xAH4A6XNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnEAfgDgcQB+AK9zcQB+AJ5xAH4A63EAfgEDdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAASY29tLmF2cm9zZXJpYWxpemVyc3EAfgEXdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQS/z6fHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMvcXVlbnRpbi9EZXYvYXZyby1zZXJpYWxpemVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSdxIbUzWHBgJwSrexoWBLJDEiXFQ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDBme8+AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAJ3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGfrI/l0AAtwdWJsaXNoZXJJZHNxAH4ADA3C95d0AAZub3RpZnlzcQB+AAzgPacqdAAHdW5hcHBseXNxAH4ADNpL6h10AAR3YWl0c3EAfgAMftjfkHQADmNvcHkkZGVmYXVsdCQyc3EAfgAM7mIdDHQADSRhc0luc3RhbmNlT2ZzcQB+AAxgg60ZdAANcHVibGlzaGVyTmFtZXNxAH4ADM5SMkF0AAxwcm9kdWN0QXJpdHlzcQB+AAzXD9kQdAAGZXF1YWxzc3EAfgAMQIOFpXQADGFzSW5zdGFuY2VPZnNxAH4ADI2xNPB0AAlnZXRTY2hlbWFzcQB+AAzifPW2dAAMc3luY2hyb25pemVkc3EAfgAMNyXV0nQADSRpc0luc3RhbmNlT2ZzcQB+AAzZWbUbdAAIY2FuRXF1YWxzcQB+AAzyiZArdAANcHJvZHVjdFByZWZpeHNxAH4ADNACRYV0AAlub3RpZnlBbGxzcQB+AAwUWtgddAALcmVhZFJlc29sdmVzcQB+AAxGWGGwdAAJY29tcGFyZVRvc3EAfgAM53Q4+XQADGlzSW5zdGFuY2VPZnNxAH4ADNfKhjF0AAY8aW5pdD5zcQB+AAxruZvfdAAFYXBwbHlzcQB+AAytjpi/dAACPT1zcQB+AAwJ0v9NdAAFY2xvbmVzcQB+AAwSqW2SdAAHU0NIRU1BJHNxAH4ADND0P9F0AARjb3B5c3EAfgAMQmY1jHQAA3B1dHNxAH4ADEnPKzB0AAh0b1N0cmluZ3NxAH4ADKYKdVV0AAIhPXNxAH4ADKn4CJp0AANnZXRzcQB+AAx3VJx7dAAIZ2V0Q2xhc3NzcQB+AAz7Fvq4dAAOY29weSRkZWZhdWx0JDFzcQB+AAy8LR4hdAAJUHVibGlzaGVyc3EAfgAMdEUvPHQAAm5lc3EAfgAMME4jJ3QAAmVxc3EAfgAMV6mFF3QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADKEPEg50AAIjI3NxAH4ADC/qBBl0AAhmaW5hbGl6ZXNxAH4ADCHbWoZ0AA5wcm9kdWN0RWxlbWVudHNxAH4ADODKVA50AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ABxjb20uYXZyb3NlcmlhbGl6ZXIuUHVibGlzaGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB+eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB9AHBzcQB+AIJzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZUwACWluaGVyaXRlZHEAfgBlTAAHcGFyZW50c3EAfgBleHEAfgCGc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cQB+AGAAAAAAc3EAfgB9AHBzcQB+AIJ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIVzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKNzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJ0AARqYXZhc3EAfgCidAACaW9xAH4Ap3NxAH4AlnQAB1Byb2R1Y3RxAH4AnHNxAH4AlnQABkVxdWFsc3EAfgCcc3EAfgCWdAASU3BlY2lmaWNSZWNvcmRCYXNlc3EAfgCac3EAfgCddXEAfgCgAAAABXNxAH4AonQAA29yZ3NxAH4AonQABmFwYWNoZXNxAH4AonQABGF2cm9zcQB+AKJ0AAhzcGVjaWZpY3EAfgCnc3EAfgCWdAANR2VuZXJpY1JlY29yZHNxAH4AmnNxAH4AnXVxAH4AoAAAAAVzcQB+AKJ0AANvcmdzcQB+AKJ0AAZhcGFjaGVzcQB+AKJ0AARhdnJvc3EAfgCidAAHZ2VuZXJpY3EAfgCnc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCXWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCFc3EAfgCWdAAKQ29tcGFyYWJsZXNxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJxAH4ArXNxAH4AonQABGxhbmdxAH4Ap3VxAH4AlAAAAAFzcQB+AJZ0AA5TcGVjaWZpY1JlY29yZHEAfgC2cQB+ANpzcQB+AJZ0AA1JbmRleGVkUmVjb3JkcQB+AMNzcQB+AJZ0ABBHZW5lcmljQ29udGFpbmVycQB+AMNzcQB+AJZ0AAZPYmplY3RxAH4A03NxAH4AlnQAA0FueXEAfgCcc3EAfgBicQB+AG91cQB+AHAAAAAAc3EAfgByAHQAHGNvbS5hdnJvc2VyaWFsaXplci5QdWJsaXNoZXJ1cQB+AHUAAAAAfnEAfgB3dAAGTW9kdWxldXEAfgB7AAAAAHNxAH4AfQBwc3EAfgCCcQB+AIdzcQB+AH0AcHNxAH4AgnNxAH4AinNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXEAfgBgAAAAAHNxAH4AfQBwc3EAfgCCdXEAfgCUAAAABHNxAH4AlnEAfgCZc3EAfgCac3EAfgCddXEAfgCgAAAAAnNxAH4AonEAfgClcQB+AKdzcQB+AJZxAH4AmXNxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJxAH4ArXNxAH4AonQAAmlvcQB+AKdzcQB+AJZxAH4A4XNxAH4AmnNxAH4AnXVxAH4AoAAAAANzcQB+AKJxAH4ArXNxAH4AonEAfgDYcQB+AKdzcQB+AJZxAH4A43EAfgD7dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAJzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAASY29tLmF2cm9zZXJpYWxpemVyc3EAfgEPdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQS/z6fHVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvVXNlcnMvcXVlbnRpbi9EZXYvYXZyby1zZXJpYWxpemVyL3RhcmdldC9zY2FsYS0yLjEwL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABSfKy2CKBD64lD/zruelPYR5SWQQA==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDjLM9EAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cL5E5/10AAZub3RpZnlzcQB+AAzF5wXkdAAHdW5hcHBseXNxAH4ADMqupd50AAR3YWl0c3EAfgAMpvwcSnQADmNvcHkkZGVmYXVsdCQyc3EAfgAMgvAHI3QADSRhc0luc3RhbmNlT2ZzcQB+AAzJiAkodAAMcHJvZHVjdEFyaXR5c3EAfgAMdsxad3QABmVxdWFsc3NxAH4ADMvvwVp0ABpwdWJsaXNoZXJDRU9Eb2dWZXRXaWZlTmFtZXNxAH4ADH0O2VN0AAxhc0luc3RhbmNlT2ZzcQB+AAzHYSZRdAAJZ2V0U2NoZW1hc3EAfgAMToBvkHQADHN5bmNocm9uaXplZHNxAH4ADOOcn+N0AA0kaXNJbnN0YW5jZU9mc3EAfgAMmJ5QxnQACGNhbkVxdWFsc3EAfgAMnuS3rnQAFnB1Ymxpc2hlckNFT0RvZ1ZldE5hbWVzcQB+AAzcAPhAdAAOY29weSRkZWZhdWx0JDRzcQB+AAwcQe25dAANcHJvZHVjdFByZWZpeHNxAH4ADHF+KZB0AAlub3RpZnlBbGxzcQB+AAwto0KKdAALcmVhZFJlc29sdmVzcQB+AAzowXO9dAAJY29tcGFyZVRvc3EAfgAM2cnP03QADGlzSW5zdGFuY2VPZnNxAH4ADFVSxbZ0AAY8aW5pdD5zcQB+AAw59l34dAAFYXBwbHlzcQB+AAzA4y6xdAACPT1zcQB+AAybDvgDdAATcHVibGlzaGVyQ0VPRG9nTmFtZXNxAH4ADEqqlot0AAVjbG9uZXNxAH4ADKuJvAR0AAdTQ0hFTUEkc3EAfgAMXCrKNnQADmNvcHkkZGVmYXVsdCQzc3EAfgAMGMG2tnQABGNvcHlzcQB+AAxcBODOdAADcHV0c3EAfgAMlXTq2HQACHRvU3RyaW5nc3EAfgAM0FUnNHQAAiE9c3EAfgAMBuLAA3QAA2dldHNxAH4ADH5BiBN0AAhnZXRDbGFzc3NxAH4ADDixswN0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADBj6y2h0ABBwdWJsaXNoZXJDRU9OYW1lc3EAfgAMxyo9D3QAAm5lc3EAfgAMg19ur3QAAmVxc3EAfgAMnNeZjHQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADNUs5gV0ABJQdWJsaXNoZXJFeHRyYUluZm9zcQB+AAx7AgNddAACIyNzcQB+AAzXq9hTdAAIZmluYWxpemVzcQB+AAw6xEq7dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAwN5UR6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAlY29tLmF2cm9zZXJpYWxpemVyLlB1Ymxpc2hlckV4dHJhSW5mb3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4Ahnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AhQBwc3EAfgCKc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AG1MAAlpbmhlcml0ZWRxAH4AbUwAB3BhcmVudHNxAH4AbXhxAH4AjnNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXEAfgBoAAAAAHNxAH4AhQBwc3EAfgCKdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAxzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCNdAAMU2VyaWFsaXphYmxlc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCNc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCrc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqdAAEamF2YXNxAH4AqnQAAmlvcQB+AK9zcQB+AJ50AAdQcm9kdWN0cQB+AKRzcQB+AJ50AAZFcXVhbHNxAH4ApHNxAH4AnnQAElNwZWNpZmljUmVjb3JkQmFzZXNxAH4AonNxAH4ApXVxAH4AqAAAAAVzcQB+AKp0AANvcmdzcQB+AKp0AAZhcGFjaGVzcQB+AKp0AARhdnJvc3EAfgCqdAAIc3BlY2lmaWNxAH4Ar3NxAH4AnnQADUdlbmVyaWNSZWNvcmRzcQB+AKJzcQB+AKV1cQB+AKgAAAAFc3EAfgCqdAADb3Jnc3EAfgCqdAAGYXBhY2hlc3EAfgCqdAAEYXZyb3NxAH4AqnQAB2dlbmVyaWNxAH4Ar3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4An1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AjXNxAH4AnnQACkNvbXBhcmFibGVzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKp0AARsYW5ncQB+AK91cQB+AJwAAAABc3EAfgCedAAOU3BlY2lmaWNSZWNvcmRxAH4AvnEAfgDic3EAfgCedAANSW5kZXhlZFJlY29yZHEAfgDLc3EAfgCedAAQR2VuZXJpY0NvbnRhaW5lcnEAfgDLc3EAfgCedAAGT2JqZWN0cQB+ANtzcQB+AJ50AANBbnlxAH4ApHNxAH4AanEAfgB3dXEAfgB4AAAAAHNxAH4AegB0ACVjb20uYXZyb3NlcmlhbGl6ZXIuUHVibGlzaGVyRXh0cmFJbmZvdXEAfgB9AAAAAH5xAH4Af3QABk1vZHVsZXVxAH4AgwAAAABzcQB+AIUAcHNxAH4AinEAfgCPc3EAfgCFAHBzcQB+AIpzcQB+AJJzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AaAAAAABzcQB+AIUAcHNxAH4AinVxAH4AnAAAAARzcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAAJzcQB+AKpxAH4ArXEAfgCvc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKp0AAJpb3EAfgCvc3EAfgCecQB+AOlzcQB+AKJzcQB+AKV1cQB+AKgAAAADc3EAfgCqcQB+ALVzcQB+AKpxAH4A4HEAfgCvc3EAfgCecQB+AOtxAH4BA3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAACc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEmNvbS5hdnJvc2VyaWFsaXplcnNxAH4BF3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEv8+nx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA8L1VzZXJzL3F1ZW50aW4vRGV2L2F2cm8tc2VyaWFsaXplci90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUYg+Dz7/TljNvIZd3LfKlpMJHyBc=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDpM5dLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAK3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cN9ZSWJ0AAZub3RpZnlzcQB+AAxAfFUedAAHdW5hcHBseXNxAH4ADIAeeU90AAR3YWl0c3EAfgAMCQFrUHQADmNvcHkkZGVmYXVsdCQyc3EAfgAMOpqdsXQADSRhc0luc3RhbmNlT2ZzcQB+AAzjC197dAAMcHJvZHVjdEFyaXR5c3EAfgAMmMMVm3QABmVxdWFsc3NxAH4ADIOl+uV0AAxhc0luc3RhbmNlT2ZzcQB+AAxZiKmDdAAMZXh0cmFTdHJpbmcyc3EAfgAMdGRezXQACWdldFNjaGVtYXNxAH4ADPGyXZp0AAxzeW5jaHJvbml6ZWRzcQB+AAzLcW7xdAANJGlzSW5zdGFuY2VPZnNxAH4ADC8VyqB0AA5QdWJsaXNoZXJIZWF2eXNxAH4ADLnsazJ0AAhjYW5FcXVhbHNxAH4ADD0CKld0AA5jb3B5JGRlZmF1bHQkNHNxAH4ADLgJ3Rx0AA1wcm9kdWN0UHJlZml4c3EAfgAMFrJqfHQACW5vdGlmeUFsbHNxAH4ADLtT/lt0AAtyZWFkUmVzb2x2ZXNxAH4ADC+2nJN0AAljb21wYXJlVG9zcQB+AAylHo7OdAAMaXNJbnN0YW5jZU9mc3EAfgAMEaIIInQABjxpbml0PnNxAH4ADHTEgDV0AAVhcHBseXNxAH4ADD30eQN0AAI9PXNxAH4ADOPQZp10AAVjbG9uZXNxAH4ADPlmvOZ0AAdTQ0hFTUEkc3EAfgAMNG20k3QACXB1Ymxpc2hlcnNxAH4ADPN6dM90AAlleHRyYUluZm9zcQB+AAwR6E+5dAAOY29weSRkZWZhdWx0JDNzcQB+AAyYyJA1dAAEY29weXNxAH4ADONrPQ50AANwdXRzcQB+AAz/T8KGdAAIdG9TdHJpbmdzcQB+AAx9R28AdAACIT1zcQB+AAy3yX2zdAADZ2V0c3EAfgAMgiZlYXQACGdldENsYXNzc3EAfgAMvd6diXQADmNvcHkkZGVmYXVsdCQxc3EAfgAMQWiE43QAAm5lc3EAfgAM+eo8Y3QAAmVxc3EAfgAMOPWYtnQAD3Byb2R1Y3RJdGVyYXRvcnNxAH4ADHm5gyV0AAxleHRyYVN0cmluZzFzcQB+AAwhKMradAACIyNzcQB+AAz80PvzdAAIZmluYWxpemVzcQB+AAwacTr9dAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzADEMfdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBteHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAhY29tLmF2cm9zZXJpYWxpemVyLlB1Ymxpc2hlckhlYXZ5dXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCGeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCFAHBzcQB+AIpzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AbUwACWluaGVyaXRlZHEAfgBtTAAHcGFyZW50c3EAfgBteHEAfgCOc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAADHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AI10AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AI1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKtzcQB+AJ5xAH4AoXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKp0AARqYXZhc3EAfgCqdAACaW9xAH4Ar3NxAH4AnnQAB1Byb2R1Y3RxAH4ApHNxAH4AnnQABkVxdWFsc3EAfgCkc3EAfgCedAASU3BlY2lmaWNSZWNvcmRCYXNlc3EAfgCic3EAfgCldXEAfgCoAAAABXNxAH4AqnQAA29yZ3NxAH4AqnQABmFwYWNoZXNxAH4AqnQABGF2cm9zcQB+AKp0AAhzcGVjaWZpY3EAfgCvc3EAfgCedAANR2VuZXJpY1JlY29yZHNxAH4AonNxAH4ApXVxAH4AqAAAAAVzcQB+AKp0AANvcmdzcQB+AKp0AAZhcGFjaGVzcQB+AKp0AARhdnJvc3EAfgCqdAAHZ2VuZXJpY3EAfgCvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCfWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgCNc3EAfgCedAAKQ29tcGFyYWJsZXNxAH4AonNxAH4ApXVxAH4AqAAAAANzcQB+AKpxAH4AtXNxAH4AqnQABGxhbmdxAH4Ar3VxAH4AnAAAAAFzcQB+AJ50AA5TcGVjaWZpY1JlY29yZHEAfgC+cQB+AOJzcQB+AJ50AA1JbmRleGVkUmVjb3JkcQB+AMtzcQB+AJ50ABBHZW5lcmljQ29udGFpbmVycQB+AMtzcQB+AJ50AAZPYmplY3RxAH4A23NxAH4AnnQAA0FueXEAfgCkc3EAfgBqcQB+AHd1cQB+AHgAAAAAc3EAfgB6AHQAIWNvbS5hdnJvc2VyaWFsaXplci5QdWJsaXNoZXJIZWF2eXVxAH4AfQAAAAB+cQB+AH90AAZNb2R1bGV1cQB+AIMAAAAAc3EAfgCFAHBzcQB+AIpxAH4Aj3NxAH4AhQBwc3EAfgCKc3EAfgCSc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AGgAAAAAc3EAfgCFAHBzcQB+AIp1cQB+AJwAAAAEc3EAfgCecQB+AKFzcQB+AKJzcQB+AKV1cQB+AKgAAAACc3EAfgCqcQB+AK1xAH4Ar3NxAH4AnnEAfgChc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgC1c3EAfgCqdAACaW9xAH4Ar3NxAH4AnnEAfgDpc3EAfgCic3EAfgCldXEAfgCoAAAAA3NxAH4AqnEAfgC1c3EAfgCqcQB+AOBxAH4Ar3NxAH4AnnEAfgDrcQB+AQN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ABJjb20uYXZyb3NlcmlhbGl6ZXJzcQB+ARd0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVBL/Pp8dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9Vc2Vycy9xdWVudGluL0Rldi9hdnJvLXNlcmlhbGl6ZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFM2fR6Gt5MSAozHB7rPcwXFHVUrZ
+external apis:
+0 items
+source infos:
+9 items
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/AuctionsGenerator.scala -> 
+AAAAAAAAAAA=
+/Users/quentin/Dev/avro-serializer/src/main/scala/com/avroserializer/SparkAvroExample.scala -> 
+AAAAAAAAAAEAAAEAAACqABcgICAgdmFsIGpvYiA9IG5ldyBKb2IoKQEAABs3AQAAAA4BAA4gICAgICAgICAgICAgIAEAWy9Vc2Vycy9xdWVudGluL0Rldi9hdnJvLXNlcmlhbGl6ZXIvc3JjL21haW4vc2NhbGEvY29tL2F2cm9zZXJpYWxpemVyL1NwYXJrQXZyb0V4YW1wbGUuc2NhbGEBAFsvVXNlcnMvcXVlbnRpbi9EZXYvYXZyby1zZXJpYWxpemVyL3NyYy9tYWluL3NjYWxhL2NvbS9hdnJvc2VyaWFsaXplci9TcGFya0F2cm9FeGFtcGxlLnNjYWxhAFtjb25zdHJ1Y3RvciBKb2IgaW4gY2xhc3MgSm9iIGlzIGRlcHJlY2F0ZWQ6IHNlZSBjb3JyZXNwb25kaW5nIEphdmFkb2MgZm9yIG1vcmUgaW5mb3JtYXRpb24uAQ==
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Auction.scala -> 
+AAAAAAAAAAA=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavy.scala -> 
+AAAAAAAAAAA=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionHeavyNested.scala -> 
+AAAAAAAAAAA=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/AuctionNested.scala -> 
+AAAAAAAAAAA=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/Publisher.scala -> 
+AAAAAAAAAAA=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherExtraInfo.scala -> 
+AAAAAAAAAAA=
+/Users/quentin/Dev/avro-serializer/target/scala-2.10/src_managed/main/compiled_avro/com/avroserializer/PublisherHeavy.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEv8+nx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9xdWVudGluL0Rldi9hdnJvLXNlcmlhbGl6ZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUEv/9551cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9Vc2Vycy9xdWVudGluL0Rldi9hdnJvLXNlcmlhbGl6ZXIvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=

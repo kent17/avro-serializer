@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/Users/quentin/Dev/avro-serializer/src/main/resources/avro,/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/avro)[0m
+[0m[[0mdebug[0m] [0m	(/Users/quentin/Dev/avro-serializer/src/main/resources/avro/example2.avdl,/Users/quentin/Dev/avro-serializer/target/scala-2.10/classes/avro/example2.avdl)[0m
